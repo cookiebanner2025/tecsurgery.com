@@ -186,9 +186,9 @@ geoConfig: {
         transition: 'all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1)',
         
        accept: {
-    background: '#2ecc71 !important',
+    background: '#08dafd !important',
     color: '#ffffff !important',
-    border: '1px solid #2ecc71 !important',
+    border: '1px solid #08dafd !important',
     hover: {
         background: '#27ae60 !important',
         color: '#ffffff !important',
@@ -198,11 +198,11 @@ geoConfig: {
         
         reject: {
             background: '#ffffff',
-            color: '#e74c3c',
+            color: '#333333',
             border: '1px solid #e74c3c',
             hover: {
-                background: '#ffeeed',
-                color: '#e74c3c',
+                background: '#ffffff',
+                color: '#333333',
                 transform: 'translateY(-1px)'
             }
         },
