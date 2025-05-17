@@ -116,7 +116,7 @@ const config = {
     languageConfig: {
         defaultLanguage: 'en',
         availableLanguages: [], // Only en and fr as requested
-        showLanguageSelector: true,
+        showLanguageSelector: false,
         autoDetectLanguage: true
     },
     
@@ -199,7 +199,7 @@ geoConfig: {
         reject: {
             background: '#ffffff',
             color: '#333333',
-            border: '1px solid #e74c3c',
+            border: '1px solid #0000001f',
             hover: {
                 background: '#ffffff',
                 color: '#333333',
