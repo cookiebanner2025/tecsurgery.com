@@ -190,7 +190,7 @@ geoConfig: {
     color: '#ffffff !important',
     border: '1px solid #08dafd !important',
     hover: {
-        background: '#27ae60 !important',
+        background: '#08dafd !important',
         color: '#ffffff !important',
         transform: 'translateY(-1px) !important'
     }
